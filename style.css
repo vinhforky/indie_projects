@@ -1,0 +1,16 @@
+.header {
+    height: 101px;
+    background-color: #0776A0;
+}
+
+.logo {
+    background-color: white;
+    border: solid 5px black;
+    width: 105px;
+    height: 60px;
+    font-family: "Peralta", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+
+}
